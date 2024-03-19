@@ -1,0 +1,16 @@
+.error {
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.error p{
+    color: #fff;
+    background-color: #fe5d42;
+    padding: 20px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-radius: 20px;
+     margin-top: 50px;
+    text-align: center;
+}
